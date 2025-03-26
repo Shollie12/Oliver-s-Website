@@ -1,0 +1,51 @@
+#fav-color-title{color:rgb(248, 181, 12)}
+body{background-color:rgb(184, 245, 208);
+    text-align: center;
+    }
+.poem-lyrics{background-color:rgb(200,200,200)}
+
+#fav-color-list{
+    width:100%;
+    text-align: center;
+    display:flex;
+    justify-content:space-between;
+    padding: 10px 10px;
+}
+
+#fav-color-list li{
+    display:inline-block;
+    margin:10px 20px;
+}
+nav{width: 100%;
+    display:flex;
+    justify-content:space-between;
+    padding: 10px 0;}
+
+nav ul{list-style:none;
+    width:100%;
+    text-align: center;
+    padding-right: 0px;
+}
+
+nav ul li{
+    display:inline-block;
+    margin:10px 20px;
+}
+
+nav ul li a{
+    color:rgb(248, 181, 12);
+    text-decoration:none;
+}
+
+.button{
+    display:flex;
+    align-items:center;
+    padding:10px 20px;
+    border: 0;
+    outline:0;
+    border-radius:5px;
+    background:rgb(248, 181, 12);
+    color: #fff;
+    font-weight:500;
+    cursor:pointer;
+}
