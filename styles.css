@@ -1,3 +1,8 @@
+*{margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration: none;}
+
 #fav-color-title{color:rgb(248, 181, 12)}
 body{background-color:rgb(184, 245, 208);
     text-align: center;
